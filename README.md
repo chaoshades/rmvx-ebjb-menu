@@ -8,6 +8,7 @@ Adds a custom menu scene for items with filters like in "Tales of Phantasia", mo
 - [Documentation](#documentation)
 - [Contributing](#contributing)
 - [Creators](#creators)
+- [Credits](#credits)
 
 ## Quick start
 
