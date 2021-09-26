@@ -32,7 +32,7 @@ The dependencies must be inserted, in the below order, before the script of this
 
 ### Instruction for usage
 
-All of the configuration available are within the `PARTY_CONFIG` module.
+All of the configuration available are within the `MENU_CONFIG` module.
 
 ## Contributing
 
