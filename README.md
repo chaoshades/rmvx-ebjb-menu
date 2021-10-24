@@ -16,7 +16,7 @@ Adds a custom menu scene for items with filters like in "Tales of Phantasia", mo
 - Run this command to combine external scripts source into one file. `ruby build-ext.rb`
 - Run this command to combine core scripts source into one file. `ruby build.rb`
 - Copy the resulting files into your RPG Maker VX project 
-  > Watch out ! The external scripts needs to be before the party scripts.
+  > Watch out ! The external scripts needs to be before the menu scripts.
 
 OR
 
